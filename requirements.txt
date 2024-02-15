@@ -1,0 +1,6 @@
+anaconda
+google-api-core
+google-auth
+google-cloud-bigquery
+tensorflow
+dask
